@@ -1,6 +1,6 @@
 # Terraform VPC and EC2 Deployment
 This repository contains a simple Terraform code using local modules.
-In addition, create 2 environment, Dev and Prod.
+In addition, create 2 environments, Dev and Prod.
 
 # Requirements
 - Deploy ec2 instance and install Terraform (manually) on it.
